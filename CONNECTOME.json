@@ -1,0 +1,30 @@
+{
+  "Project": "M. Elegans",
+  "Organization": "VirtualAnimalProject",
+  "Neurons": {
+    "Brain Regions": {
+      "Sensory": {
+        "Neuron Count": 24,
+        "Case1": "Light",
+        "Case2": "Memory",
+        "Case3": "Other"
+      },
+      "Motor": {
+        "Neuron Count": 12,
+        "Case": "Movement or Slithering"
+      },
+      "Hippocampus": {
+        "Neuron Count": 36,
+        "Case1": "Memory",
+        "Case2": "Spatial Navigation",
+        "Case3": "Stress response"
+      },
+      "Learning": {
+        "Neuron Count": 52,
+        "Case1": "Memory Navigation",
+        "Case2": "Light Patterns",
+        "Case3": "Simple Thinking"
+      }
+    }
+  }
+}
